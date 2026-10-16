@@ -34,7 +34,7 @@ I'm organizing and documenting projects from my programming and machine-learning
 - Classification, clustering, and computer vision experiments
 - Command-line chatbot and API experiments
 
-These repositories are currently private while I review their documentation, security, and publication permissions.
+My Python and machine learning coursework projects are publicly available on GitHub, with documentation covering their methods, limitations, and learning objectives.
 
 ## Currently Learning
 
