@@ -1,39 +1,15 @@
-<div align="center">
-
 # Farbod Pourfatemi
 
-**Student · Web projects · AI & medical sciences**
+**Programming · Artificial intelligence · Medical sciences**
 
-[Explore Kosalad](https://kosalad-platform.vercel.app/)
+I am a student developing my programming skills through practical projects. My interests span web development, artificial intelligence, and medical sciences, with a particular curiosity about how computing can contribute to medicine.
 
-</div>
+## Areas of interest
 
----
+- **Software development:** building useful web applications and understanding how they work.
+- **Artificial intelligence:** exploring its foundations and practical applications.
+- **Medical sciences:** learning about the field and its connections with technology.
 
-## About me
+## Selected work
 
-I am a student interested in programming, artificial intelligence, and medical sciences. I built **KO?SALAD (Kosalad)** with AI assistance, and I am developing my skills through practical projects.
-
-I am especially curious about how computing and AI can contribute to medicine. This is an area I want to explore as I build a stronger foundation in programming and science.
-
-## Featured project — KO?SALAD
-
-A community website for people to introduce themselves, share projects, and apply to join.
-
-- **Explore:** member profiles, community projects, and a browser game.
-- **My role:** creator of the website; developed with assistance from ChatGPT.
-- **Project technologies:** Next.js, React, TypeScript, Tailwind CSS, and Supabase.
-
-**[Visit the live website →](https://kosalad-platform.vercel.app/)**
-
-## Interests & direction
-
-| Area | What interests me |
-| :--- | :--- |
-| Web development | Turning ideas into useful, usable websites |
-| Artificial intelligence | Understanding AI and using it thoughtfully in projects |
-| Medical sciences | Exploring connections between computing and medicine |
-
----
-
-*This profile will grow with my projects and learning.*
+See the pinned projects below for project overviews and live demos.
