@@ -25,16 +25,17 @@ Developed with AI assistance as part of my practical software development experi
 
 [Live Website](https://kosalad-platform.vercel.app/) · [Project Overview](https://github.com/farbodpourfatemi/kosalad-showcase)
 
+
 ## Python & Machine Learning Coursework
 
-I'm organizing and documenting projects from my programming and machine-learning coursework, including:
+A collection of projects developed during my programming and machine learning studies at Aiolearn, with further refactoring and documentation.
 
-- Python exercises and small applications
-- Vehicle CO₂ prediction using linear regression
-- Classification, clustering, and computer vision experiments
-- Command-line chatbot and API experiments
+- **[Python Learning Lab](https://github.com/farbodpourfatemi/python-learning-lab)** — Python fundamentals, exercises, and mini-projects.
+- **[Vehicle CO₂ Prediction](https://github.com/farbodpourfatemi/vehicle-co2-prediction)** — Linear regression, model evaluation, and synthetic demonstration data.
+- **[Machine Learning Lab](https://github.com/farbodpourfatemi/machine-learning-lab)** — Classification, clustering, and computer vision experiments.
+- **[Gemini CLI Chatbot](https://github.com/farbodpourfatemi/gemini-cli-chatbot)** — Command-line API integration experiments.
 
-My Python and machine learning coursework projects are publicly available on GitHub, with documentation covering their methods, limitations, and learning objectives.
+These projects document my learning progress. Selected implementations were improved and documented with AI assistance.
 
 ## Currently Learning
 
